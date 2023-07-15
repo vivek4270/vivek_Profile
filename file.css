@@ -97,7 +97,7 @@ left: 40%;
 transform: translate(-45%);
 bottom: 300px;
 transition: left 2s ease;
-top: -180px;
+top: -300px;
 }
 
 .image:hover img{
